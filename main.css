@@ -99,7 +99,7 @@ h1{
     text-align: center;
 }
 
-.total {
+#total {
     height: 200px;
     width: 100%;
     padding: 20px;
@@ -108,7 +108,7 @@ h1{
     font-weight: 600;
 }
 
-.grade{
+#grade{
     height: 60px;
     width: 100%;
     padding: 20px;
@@ -117,7 +117,7 @@ h1{
     font-weight: 600;
 }
 
-.avg{
+#avg{
     height: 80px;
     width: 100%;
     padding: 20px;
